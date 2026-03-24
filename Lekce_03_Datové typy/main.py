@@ -1,6 +1,8 @@
 # ÚLOHA 1: Sčítací past (Cíl: 5 + 3 = 8)
 # ---------------------------------------------------------
-
+cislo = input("Zadej první číslo")
+cislo = input("Zadej druhé číslo")
+vysledek = (int)cislo1 + (int)cislo2
 
 # ÚLOHA 2: Opakovač jména (Cíl: "Honza" a 3 -> "HonzaHonzaHonza")
 # ---------------------------------------------------------
